@@ -1,0 +1,30 @@
+body{
+  background-color: #083B4C;
+}
+
+body h1{
+  font-weight: 600;
+  font-size: 50px;
+}
+
+.box {
+  height: 80px;
+  width: 80px;
+  background-color: #1389B2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.box3{
+  background-color: #0BD6A1;
+}
+
+.box5{
+  background-color: #FFD166;
+}
+
+.box15{
+  background-color: #F0466F;
+}
